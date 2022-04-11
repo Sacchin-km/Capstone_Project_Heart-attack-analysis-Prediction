@@ -49,7 +49,7 @@ output - 0 = less chance of heart attack; 1 = more chance of heart attack
 
 3.Performed EDA : Handled Outliers , Deleted duplicate rows, visualization and Feature scaling.
 
-4.Created 7 different Classification Models : LogisticRegression, RandomForestClassifier, XGBClassifier.
+4.Created different Classification Models : LogisticRegression, RandomForestClassifier, XGBClassifier.
 Performed comparative analysis on the techniques used.
 
 # Libraries used
